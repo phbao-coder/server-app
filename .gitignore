@@ -1,0 +1,4 @@
+#dependencies
+.vscode
+.prettierrc
+node_modules/
